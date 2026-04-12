@@ -1,4 +1,4 @@
-# 🚀 Backend Journey: ASP.NET Core & Python Roadmap
+# Backend Journey: ASP.NET Core & Python Roadmap
 
 Este repositorio es mi bitácora de aprendizaje y laboratorio de experimentación para dominar el desarrollo **Backend**. Mi objetivo es consolidar un perfil sólido en arquitectura de software, gestión de datos y escalabilidad antes de mis prácticas profesionales.
 
