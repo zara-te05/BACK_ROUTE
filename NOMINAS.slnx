@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/PROYECT_NOMINAS/">
+    <Project Path="API_NOMINAS/API_NOMINAS.csproj" />
+    <Project Path="NOMINAS/NOMINAS.csproj" />
+  </Folder>
+</Solution>
